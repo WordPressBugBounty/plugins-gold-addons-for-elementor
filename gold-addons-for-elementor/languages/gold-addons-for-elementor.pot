@@ -1,0 +1,1429 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Gold Addons for Elementor\n"
+"POT-Creation-Date: 2021-03-07 16:00+0100\n"
+"PO-Revision-Date: 2021-03-07 15:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: gold-addons-for-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. translators: 1: Plugin name 2: Elementor
+#: gold-addons-for-elementor.php:226
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: gold-addons-for-elementor.php:227 gold-addons-for-elementor.php:250
+#: gold-addons-for-elementor.php:274
+msgid "GoldAddons Plugin"
+msgstr ""
+
+#: gold-addons-for-elementor.php:228
+msgid "Elementor Plugin"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: gold-addons-for-elementor.php:249 gold-addons-for-elementor.php:273
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: gold-addons-for-elementor.php:251
+msgid "Elementor"
+msgstr ""
+
+#: gold-addons-for-elementor.php:275
+msgid "PHP"
+msgstr ""
+
+#: includes/admin/class-admin.php:152 includes/admin/pages/general.php:52
+msgid "Congratulations! Your license key is successfully registered."
+msgstr ""
+
+#: includes/admin/class-admin.php:153 includes/admin/pages/general.php:45
+msgid "Please insert your license key below."
+msgstr ""
+
+#: includes/admin/class-admin.php:154 includes/admin/pages/general.php:59
+msgid "Your license key is invalid."
+msgstr ""
+
+#: includes/admin/class-admin.php:155
+msgid "Please enter your license key."
+msgstr ""
+
+#: includes/admin/class-admin.php:156
+msgid "Please select your license type."
+msgstr ""
+
+#: includes/admin/class-admin.php:179 includes/admin/class-settings.php:107
+msgid "Go Pro"
+msgstr ""
+
+#: includes/admin/class-notifications.php:70
+msgid ""
+"GoldAddons for Elementor license is activated successfully ! However it "
+"seems that you have not installed or activated"
+msgstr ""
+
+#: includes/admin/class-notifications.php:70
+msgid "plugin so premium features are not enabled."
+msgstr ""
+
+#: includes/admin/class-notifications.php:70 widgets/blog.php:490
+msgid "Guide"
+msgstr ""
+
+#. Author of the plugin/theme
+#: includes/admin/class-settings.php:75 includes/admin/class-settings.php:76
+#: includes/admin/class-settings.php:161
+msgid "GoldAddons"
+msgstr ""
+
+#: includes/admin/class-settings.php:99 includes/admin/pages/pro-widgets.php:33
+msgid "PRO Widgets"
+msgstr ""
+
+#: includes/admin/pages/general.php:29 includes/admin/pages/pro-widgets.php:22
+msgid "For Elementor"
+msgstr ""
+
+#: includes/admin/pages/general.php:32 includes/admin/pages/pro-widgets.php:25
+msgid "Version:"
+msgstr ""
+
+#: includes/admin/pages/general.php:70
+msgid "Select license type"
+msgstr ""
+
+#: includes/admin/pages/general.php:71 includes/admin/pages/pro-widgets.php:120
+msgid "Personal"
+msgstr ""
+
+#: includes/admin/pages/general.php:72 includes/admin/pages/pro-widgets.php:154
+msgid "Business"
+msgstr ""
+
+#: includes/admin/pages/general.php:73 includes/admin/pages/pro-widgets.php:188
+msgid "Unlimited"
+msgstr ""
+
+#: includes/admin/pages/general.php:80
+msgid "Submit"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:40
+msgid "Accordion Widget"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:41
+msgid ""
+"Create an unlimited accordions and apply custom styling to it with many "
+"great features."
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:43
+#: includes/admin/pages/pro-widgets.php:54
+#: includes/admin/pages/pro-widgets.php:65
+#: includes/admin/pages/pro-widgets.php:79
+#: includes/admin/pages/pro-widgets.php:90
+#: includes/admin/pages/pro-widgets.php:101
+msgid "Learn more"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:51
+msgid "Portfolio Widget"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:52
+msgid "Create avesome portfolio sections with GoldAddons PRO Portfolio widget."
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:62
+msgid "3D Flip Box Widget"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:63
+msgid ""
+"Create awesome 3D flip boxes with front/back area text or images. Pure CSS3 "
+"animations without jQuery code."
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:76
+#: includes/admin/pages/pro-widgets.php:87
+#: includes/admin/pages/pro-widgets.php:98
+msgid "Coming Soon"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:77
+#: includes/admin/pages/pro-widgets.php:88
+#: includes/admin/pages/pro-widgets.php:99
+msgid "Many new PRO widgets are coming very soon."
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:112
+msgid "Pricing"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:122
+msgid "1 website"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:126
+#: includes/admin/pages/pro-widgets.php:160
+#: includes/admin/pages/pro-widgets.php:194
+msgid "Lifetime updates"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:130
+#: includes/admin/pages/pro-widgets.php:164
+#: includes/admin/pages/pro-widgets.php:198
+msgid "1 Year premium support"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:134
+#: includes/admin/pages/pro-widgets.php:168
+#: includes/admin/pages/pro-widgets.php:202
+msgid "Full documentation provided"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:138
+#: includes/admin/pages/pro-widgets.php:172
+#: includes/admin/pages/pro-widgets.php:206
+msgid "14 Days money back guarantee"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:143
+#: includes/admin/pages/pro-widgets.php:177
+#: includes/admin/pages/pro-widgets.php:211
+msgid "Buy Now"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:156
+msgid "3 websites"
+msgstr ""
+
+#: includes/admin/pages/pro-widgets.php:190
+msgid "unlimited websites"
+msgstr ""
+
+#: includes/class-helper.php:32
+msgid "Select a Contact Form"
+msgstr ""
+
+#: includes/class-helper.php:38
+msgid "Create a Form First"
+msgstr ""
+
+#: includes/functions.php:36
+msgid "Gold Addons"
+msgstr ""
+
+#: includes/functions.php:51 widgets/blog.php:324
+msgid "Read More"
+msgstr ""
+
+#: includes/functions.php:86
+msgid "Page"
+msgstr ""
+
+#: includes/functions.php:87
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: includes/functions.php:88
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: includes/functions.php:100 widgets/blog.php:208
+msgid "Load More"
+msgstr ""
+
+#: includes/functions.php:110
+msgid "End of content."
+msgstr ""
+
+#: includes/functions.php:111
+msgid "No more posts to load."
+msgstr ""
+
+#: widgets/alert.php:50 widgets/contact-form-7.php:1395
+msgid "Alert"
+msgstr ""
+
+#: widgets/alert.php:139 widgets/alert.php:186 widgets/blog.php:242
+#: widgets/image-carousel.php:136 widgets/modal.php:220
+#: widgets/price-box.php:123 widgets/team.php:140
+msgid "Content"
+msgstr ""
+
+#: widgets/alert.php:147
+msgid "Alert Type"
+msgstr ""
+
+#: widgets/alert.php:150
+msgid "Info"
+msgstr ""
+
+#: widgets/alert.php:151
+msgid "Success"
+msgstr ""
+
+#: widgets/alert.php:152
+msgid "Warning"
+msgstr ""
+
+#: widgets/alert.php:153
+msgid "Danger"
+msgstr ""
+
+#: widgets/alert.php:154 widgets/blog.php:405 widgets/contact-form-7.php:1183
+msgid "Custom"
+msgstr ""
+
+#: widgets/alert.php:163
+msgid "Show dismiss icon?"
+msgstr ""
+
+#: widgets/alert.php:165 widgets/blog.php:295 widgets/blog.php:308
+#: widgets/blog.php:372 widgets/blog.php:384 widgets/blog.php:476
+#: widgets/blog.php:516 widgets/blog.php:529 widgets/blog.php:542
+#: widgets/contact-form-7.php:222 widgets/contact-form-7.php:248
+#: widgets/contact-form-7.php:268
+msgid "Show"
+msgstr ""
+
+#: widgets/alert.php:166 widgets/blog.php:296 widgets/blog.php:309
+#: widgets/blog.php:373 widgets/blog.php:385 widgets/blog.php:477
+#: widgets/blog.php:517 widgets/blog.php:530 widgets/blog.php:543
+#: widgets/contact-form-7.php:223 widgets/contact-form-7.php:249
+#: widgets/contact-form-7.php:269
+msgid "Hide"
+msgstr ""
+
+#: widgets/alert.php:175
+msgid "Alert Icon"
+msgstr ""
+
+#: widgets/alert.php:188
+msgid "This is alert default content."
+msgstr ""
+
+#: widgets/alert.php:197
+msgid "Colors"
+msgstr ""
+
+#: widgets/alert.php:208 widgets/blog.php:1331 widgets/blog.php:1350
+#: widgets/contact-form-7.php:540 widgets/contact-form-7.php:753
+#: widgets/contact-form-7.php:1223 widgets/contact-form-7.php:1329
+#: widgets/contact-form-7.php:1454 widgets/contact-form-7.php:1515
+#: widgets/modal.php:420 widgets/modal.php:451
+msgid "Background Color"
+msgstr ""
+
+#: widgets/alert.php:223
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/alert.php:237 widgets/contact-form-7.php:464
+#: widgets/contact-form-7.php:495 widgets/contact-form-7.php:552
+#: widgets/contact-form-7.php:835 widgets/contact-form-7.php:910
+#: widgets/contact-form-7.php:1235 widgets/contact-form-7.php:1341
+#: widgets/contact-form-7.php:1405 widgets/contact-form-7.php:1469
+#: widgets/contact-form-7.php:1530 widgets/contact-form-7.php:1612
+#: widgets/modal.php:337 widgets/modal.php:357 widgets/modal.php:409
+#: widgets/modal.php:440
+msgid "Text Color"
+msgstr ""
+
+#: widgets/alert.php:253 widgets/alert.php:262 widgets/blog.php:1264
+#: widgets/contact-form-7.php:477 widgets/contact-form-7.php:508
+#: widgets/contact-form-7.php:725 widgets/contact-form-7.php:873
+#: widgets/contact-form-7.php:925 widgets/contact-form-7.php:1301
+#: widgets/contact-form-7.php:1546 widgets/contact-form-7.php:1603
+#: widgets/modal.php:317 widgets/modal.php:389
+msgid "Typography"
+msgstr ""
+
+#: widgets/blog.php:52
+msgid "Blog"
+msgstr ""
+
+#: widgets/blog.php:142
+msgid "General"
+msgstr ""
+
+#: widgets/blog.php:150
+msgid "Blog Layout"
+msgstr ""
+
+#: widgets/blog.php:153
+msgid "List"
+msgstr ""
+
+#: widgets/blog.php:154
+msgid "Grid"
+msgstr ""
+
+#: widgets/blog.php:155
+msgid "Timeline"
+msgstr ""
+
+#: widgets/blog.php:156
+msgid "Small Thumbs"
+msgstr ""
+
+#: widgets/blog.php:165
+msgid "Grid Columns"
+msgstr ""
+
+#: widgets/blog.php:168
+msgid "2 Columns"
+msgstr ""
+
+#: widgets/blog.php:169
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/blog.php:170
+msgid "4 Columns"
+msgstr ""
+
+#: widgets/blog.php:191
+msgid "Pagination Type"
+msgstr ""
+
+#: widgets/blog.php:194
+msgid "Pagination"
+msgstr ""
+
+#: widgets/blog.php:195 widgets/blog.php:1479
+msgid "Load More Button"
+msgstr ""
+
+#: widgets/blog.php:196
+msgid "Infinite Scroll"
+msgstr ""
+
+#: widgets/blog.php:205
+msgid "Load More Button Text"
+msgstr ""
+
+#: widgets/blog.php:219
+msgid "Entrance Animation"
+msgstr ""
+
+#: widgets/blog.php:250
+msgid "Blog Categories"
+msgstr ""
+
+#: widgets/blog.php:263
+msgid "Posts Content"
+msgstr ""
+
+#: widgets/blog.php:266
+msgid "Full Content"
+msgstr ""
+
+#: widgets/blog.php:267
+msgid "The Excerpt"
+msgstr ""
+
+#: widgets/blog.php:277
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/blog.php:293
+msgid "Show Post Tags ?"
+msgstr ""
+
+#: widgets/blog.php:306
+msgid "Show Read More Link ?"
+msgstr ""
+
+#: widgets/blog.php:322
+msgid "Read More Link Text"
+msgstr ""
+
+#: widgets/blog.php:345
+msgid "Posts Per Page"
+msgstr ""
+
+#: widgets/blog.php:362 widgets/blog.php:625
+msgid "Featured Image"
+msgstr ""
+
+#: widgets/blog.php:370
+msgid "Enable Featured Image"
+msgstr ""
+
+#: widgets/blog.php:382
+msgid "Featured Image Permalink"
+msgstr ""
+
+#: widgets/blog.php:398
+msgid "Featured Image Size"
+msgstr ""
+
+#: widgets/blog.php:401
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/blog.php:402
+msgid "Medium"
+msgstr ""
+
+#: widgets/blog.php:403 widgets/modal.php:108
+msgid "Large"
+msgstr ""
+
+#: widgets/blog.php:404
+msgid "Full"
+msgstr ""
+
+#: widgets/blog.php:418
+msgid "Featured Image Custom Size"
+msgstr ""
+
+#: widgets/blog.php:466 widgets/blog.php:801
+msgid "Post Meta"
+msgstr ""
+
+#: widgets/blog.php:474
+msgid "Post Date"
+msgstr ""
+
+#: widgets/blog.php:489
+msgid "Post Date Format"
+msgstr ""
+
+#: widgets/blog.php:490
+msgid "Date format"
+msgstr ""
+
+#: widgets/blog.php:514
+msgid "Post Author"
+msgstr ""
+
+#: widgets/blog.php:527
+msgid "Post Category"
+msgstr ""
+
+#: widgets/blog.php:540
+msgid "Post Comments"
+msgstr ""
+
+#: widgets/blog.php:557
+msgid "Posts Order"
+msgstr ""
+
+#: widgets/blog.php:565
+msgid "Order by"
+msgstr ""
+
+#: widgets/blog.php:568
+msgid "Author"
+msgstr ""
+
+#: widgets/blog.php:569
+msgid "Date"
+msgstr ""
+
+#: widgets/blog.php:570
+msgid "Post ID"
+msgstr ""
+
+#: widgets/blog.php:571
+msgid "Random"
+msgstr ""
+
+#: widgets/blog.php:572
+msgid "Name"
+msgstr ""
+
+#: widgets/blog.php:573
+msgid "Last Modified"
+msgstr ""
+
+#: widgets/blog.php:574
+msgid "Number of Comments"
+msgstr ""
+
+#: widgets/blog.php:575 widgets/contact-form-7.php:177
+#: widgets/contact-form-7.php:455 widgets/price-box.php:160
+msgid "Title"
+msgstr ""
+
+#: widgets/blog.php:585
+msgid "Sort Order"
+msgstr ""
+
+#: widgets/blog.php:588
+msgid "Ascending"
+msgstr ""
+
+#: widgets/blog.php:589
+msgid "Descending"
+msgstr ""
+
+#: widgets/blog.php:603
+msgid "Article Wrapper"
+msgstr ""
+
+#: widgets/blog.php:612 widgets/blog.php:1371
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/blog.php:634 widgets/blog.php:1387 widgets/contact-form-7.php:701
+#: widgets/contact-form-7.php:766 widgets/contact-form-7.php:1248
+#: widgets/contact-form-7.php:1485 widgets/contact-form-7.php:1560
+#: widgets/contact-form-7.php:1637
+msgid "Border"
+msgstr ""
+
+#: widgets/blog.php:643 widgets/blog.php:1402 widgets/blog.php:1438
+#: widgets/blog.php:1498 widgets/contact-form-7.php:386
+#: widgets/contact-form-7.php:712 widgets/contact-form-7.php:1063
+#: widgets/contact-form-7.php:1089 widgets/contact-form-7.php:1257
+#: widgets/modal.php:475
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/blog.php:661
+msgid "Content Wrapper"
+msgstr ""
+
+#: widgets/blog.php:670
+msgid "Content Wrapper Background"
+msgstr ""
+
+#: widgets/blog.php:679
+msgid "Content Wrapper Padding"
+msgstr ""
+
+#: widgets/blog.php:698
+msgid "Post Title"
+msgstr ""
+
+#: widgets/blog.php:710 widgets/blog.php:849 widgets/blog.php:948
+#: widgets/blog.php:996 widgets/blog.php:1044 widgets/blog.php:1107
+#: widgets/blog.php:1214 widgets/blog.php:1323 widgets/blog.php:1535
+#: widgets/blog.php:1589 widgets/contact-form-7.php:533
+#: widgets/contact-form-7.php:990 widgets/contact-form-7.php:1216
+#: widgets/modal.php:330 widgets/modal.php:402 widgets/price-box.php:313
+#: widgets/price-box.php:381 widgets/price-box.php:429
+msgid "Normal"
+msgstr ""
+
+#: widgets/blog.php:717 widgets/blog.php:738
+msgid "Post Title Color"
+msgstr ""
+
+#: widgets/blog.php:731 widgets/blog.php:870 widgets/blog.php:969
+#: widgets/blog.php:1017 widgets/blog.php:1065 widgets/blog.php:1128
+#: widgets/blog.php:1234 widgets/blog.php:1342 widgets/blog.php:1555
+#: widgets/blog.php:1609 widgets/contact-form-7.php:1322 widgets/modal.php:350
+#: widgets/modal.php:433 widgets/price-box.php:334 widgets/price-box.php:402
+#: widgets/price-box.php:460
+msgid "Hover"
+msgstr ""
+
+#: widgets/blog.php:755
+msgid "Post Title Font"
+msgstr ""
+
+#: widgets/blog.php:771
+msgid "Post Title Align"
+msgstr ""
+
+#: widgets/blog.php:775 widgets/blog.php:906 widgets/blog.php:1172
+#: widgets/blog.php:1635 widgets/contact-form-7.php:321
+#: widgets/contact-form-7.php:433 widgets/contact-form-7.php:1153
+#: widgets/modal.php:191 widgets/modal.php:274
+msgid "Left"
+msgstr ""
+
+#: widgets/blog.php:779 widgets/blog.php:910 widgets/blog.php:1176
+#: widgets/blog.php:1639 widgets/contact-form-7.php:325
+#: widgets/contact-form-7.php:437 widgets/contact-form-7.php:1157
+#: widgets/image-carousel.php:216 widgets/modal.php:195 widgets/modal.php:278
+msgid "Center"
+msgstr ""
+
+#: widgets/blog.php:783 widgets/blog.php:914 widgets/blog.php:1180
+#: widgets/blog.php:1643 widgets/contact-form-7.php:329
+#: widgets/contact-form-7.php:441 widgets/contact-form-7.php:1161
+#: widgets/modal.php:199 widgets/modal.php:282
+msgid "Right"
+msgstr ""
+
+#: widgets/blog.php:809
+msgid "Post Meta Color"
+msgstr ""
+
+#: widgets/blog.php:825
+msgid "Post Meta Font"
+msgstr ""
+
+#: widgets/blog.php:837
+msgid "Post Content"
+msgstr ""
+
+#: widgets/blog.php:856 widgets/blog.php:877
+msgid "Content Text Color"
+msgstr ""
+
+#: widgets/blog.php:894
+msgid "Content Font"
+msgstr ""
+
+#: widgets/blog.php:902
+msgid "Content Align"
+msgstr ""
+
+#: widgets/blog.php:933
+msgid "Timeline Layout"
+msgstr ""
+
+#: widgets/blog.php:955 widgets/blog.php:976
+msgid "Timeline Date Border Color"
+msgstr ""
+
+#: widgets/blog.php:1003 widgets/blog.php:1024
+msgid "Timeline Date Text Color"
+msgstr ""
+
+#: widgets/blog.php:1051 widgets/blog.php:1072
+msgid "Timeline Date Background Color"
+msgstr ""
+
+#: widgets/blog.php:1092
+msgid "Post Excerpt"
+msgstr ""
+
+#: widgets/blog.php:1114 widgets/blog.php:1135
+msgid "Read More Link Color"
+msgstr ""
+
+#: widgets/blog.php:1152
+msgid "Read More Link Font"
+msgstr ""
+
+#: widgets/blog.php:1168
+msgid "Read More Link Align"
+msgstr ""
+
+#: widgets/blog.php:1199
+msgid "Post Tags"
+msgstr ""
+
+#: widgets/blog.php:1221 widgets/blog.php:1241 widgets/contact-form-7.php:1000
+#: widgets/contact-form-7.php:1116
+msgid "Color"
+msgstr ""
+
+#: widgets/blog.php:1280 widgets/blog.php:1511 widgets/contact-form-7.php:588
+#: widgets/contact-form-7.php:1269 widgets/contact-form-7.php:1685
+#: widgets/modal.php:487
+msgid "Padding"
+msgstr ""
+
+#: widgets/blog.php:1299 widgets/contact-form-7.php:362
+#: widgets/contact-form-7.php:1574 widgets/contact-form-7.php:1671
+#: widgets/image-carousel.php:181
+msgid "Margin"
+msgstr ""
+
+#: widgets/blog.php:1419
+msgid "Post Pagination"
+msgstr ""
+
+#: widgets/blog.php:1451
+msgid "Pagination Text Color"
+msgstr ""
+
+#: widgets/blog.php:1463
+msgid "Pagination Background Color"
+msgstr ""
+
+#: widgets/blog.php:1542 widgets/blog.php:1562 widgets/price-box.php:436
+#: widgets/price-box.php:467
+msgid "Button Text Color"
+msgstr ""
+
+#: widgets/blog.php:1596 widgets/blog.php:1616 widgets/price-box.php:447
+#: widgets/price-box.php:478
+msgid "Button Background Color"
+msgstr ""
+
+#: widgets/blog.php:1631
+msgid "Button Alignment"
+msgstr ""
+
+#: widgets/blog.php:1647 widgets/modal.php:203 widgets/modal.php:286
+msgid "Justified"
+msgstr ""
+
+#: widgets/contact-form-7.php:47
+msgid "Contact Form 7"
+msgstr ""
+
+#: widgets/contact-form-7.php:126
+msgid "Warning!"
+msgstr ""
+
+#: widgets/contact-form-7.php:134
+msgid ""
+"<strong>Contact Form 7</strong> is not installed/activated on your site. "
+"Please install and activate <strong>Contact Form 7</strong> first."
+msgstr ""
+
+#: widgets/contact-form-7.php:148
+msgid "Contact Form"
+msgstr ""
+
+#: widgets/contact-form-7.php:155
+msgid "Select Form"
+msgstr ""
+
+#: widgets/contact-form-7.php:166
+msgid "Form Title"
+msgstr ""
+
+#: widgets/contact-form-7.php:168 widgets/contact-form-7.php:195
+#: widgets/price-box.php:257
+msgid "On"
+msgstr ""
+
+#: widgets/contact-form-7.php:169 widgets/contact-form-7.php:196
+#: widgets/price-box.php:258
+msgid "Off"
+msgstr ""
+
+#: widgets/contact-form-7.php:193
+msgid "Form Description"
+msgstr ""
+
+#: widgets/contact-form-7.php:204 widgets/contact-form-7.php:486
+msgid "Description"
+msgstr ""
+
+#: widgets/contact-form-7.php:219 widgets/contact-form-7.php:795
+msgid "Labels"
+msgstr ""
+
+#: widgets/contact-form-7.php:237 widgets/contact-form-7.php:1374
+msgid "Errors"
+msgstr ""
+
+#: widgets/contact-form-7.php:244 widgets/contact-form-7.php:1382
+msgid "Error Messages"
+msgstr ""
+
+#: widgets/contact-form-7.php:264 widgets/contact-form-7.php:1503
+msgid "Validation Errors"
+msgstr ""
+
+#: widgets/contact-form-7.php:294
+msgid "Form Container"
+msgstr ""
+
+#: widgets/contact-form-7.php:303 widgets/contact-form-7.php:1626
+msgid "Background"
+msgstr ""
+
+#: widgets/contact-form-7.php:312
+msgid "Form Alignment"
+msgstr ""
+
+#: widgets/contact-form-7.php:317 widgets/contact-form-7.php:818
+#: widgets/modal.php:107
+msgid "Default"
+msgstr ""
+
+#: widgets/contact-form-7.php:340
+msgid "Form Max Width"
+msgstr ""
+
+#: widgets/contact-form-7.php:374
+msgid "Form Padding"
+msgstr ""
+
+#: widgets/contact-form-7.php:421
+msgid "Title & Description"
+msgstr ""
+
+#: widgets/contact-form-7.php:429 widgets/contact-form-7.php:1148
+#: widgets/modal.php:187
+msgid "Alignment"
+msgstr ""
+
+#: widgets/contact-form-7.php:523
+msgid "Input & Textarea"
+msgstr ""
+
+#: widgets/contact-form-7.php:565 widgets/contact-form-7.php:850
+#: widgets/contact-form-7.php:1420
+msgid "Spacing"
+msgstr ""
+
+#: widgets/contact-form-7.php:600
+msgid "Text Indent"
+msgstr ""
+
+#: widgets/contact-form-7.php:624
+msgid "Input Width"
+msgstr ""
+
+#: widgets/contact-form-7.php:643
+msgid "Input Height"
+msgstr ""
+
+#: widgets/contact-form-7.php:662
+msgid "Textarea Width"
+msgstr ""
+
+#: widgets/contact-form-7.php:681
+msgid "Textarea Height"
+msgstr ""
+
+#: widgets/contact-form-7.php:746
+msgid "Focus"
+msgstr ""
+
+#: widgets/contact-form-7.php:807
+msgid ""
+"if <strong>label</strong> spacing doesn't worked, please update "
+"<strong>label</strong> display"
+msgstr ""
+
+#: widgets/contact-form-7.php:814
+msgid "Display"
+msgstr ""
+
+#: widgets/contact-form-7.php:819
+msgid "Inherit"
+msgstr ""
+
+#: widgets/contact-form-7.php:820
+msgid "Initial"
+msgstr ""
+
+#: widgets/contact-form-7.php:821
+msgid "Inline"
+msgstr ""
+
+#: widgets/contact-form-7.php:822
+msgid "Inline Block"
+msgstr ""
+
+#: widgets/contact-form-7.php:823
+msgid "Flex"
+msgstr ""
+
+#: widgets/contact-form-7.php:824
+msgid "Inline Flex"
+msgstr ""
+
+#: widgets/contact-form-7.php:890
+msgid "Placeholder"
+msgstr ""
+
+#: widgets/contact-form-7.php:898
+msgid "Show Placeholder"
+msgstr ""
+
+#: widgets/contact-form-7.php:901 widgets/contact-form-7.php:953
+#: widgets/image-carousel.php:207 widgets/image-carousel.php:222
+#: widgets/image-carousel.php:237 widgets/image-carousel.php:252
+#: widgets/image-carousel.php:267 widgets/image-carousel.php:282
+#: widgets/image-carousel.php:297 widgets/image-carousel.php:312
+#: widgets/image-carousel.php:326 widgets/image-carousel.php:343
+#: widgets/image-carousel.php:358 widgets/image-carousel.php:395
+#: widgets/image-carousel.php:412
+msgid "Yes"
+msgstr ""
+
+#: widgets/contact-form-7.php:902 widgets/contact-form-7.php:954
+#: widgets/image-carousel.php:206 widgets/image-carousel.php:221
+#: widgets/image-carousel.php:236 widgets/image-carousel.php:251
+#: widgets/image-carousel.php:266 widgets/image-carousel.php:281
+#: widgets/image-carousel.php:296 widgets/image-carousel.php:311
+#: widgets/image-carousel.php:327 widgets/image-carousel.php:342
+#: widgets/image-carousel.php:357 widgets/image-carousel.php:394
+#: widgets/image-carousel.php:411
+msgid "No"
+msgstr ""
+
+#: widgets/contact-form-7.php:943
+msgid "Radio & Checkbox"
+msgstr ""
+
+#: widgets/contact-form-7.php:951
+msgid "Custom Styles"
+msgstr ""
+
+#: widgets/contact-form-7.php:962
+msgid "Size"
+msgstr ""
+
+#: widgets/contact-form-7.php:1015
+msgid "Border Width"
+msgstr ""
+
+#: widgets/contact-form-7.php:1037 widgets/contact-form-7.php:1353
+#: widgets/team.php:339 widgets/team.php:354 widgets/team.php:369
+msgid "Border Color"
+msgstr ""
+
+#: widgets/contact-form-7.php:1052
+msgid "Checkbox"
+msgstr ""
+
+#: widgets/contact-form-7.php:1078
+msgid "Radio Buttons"
+msgstr ""
+
+#: widgets/contact-form-7.php:1106
+msgid "Checked"
+msgstr ""
+
+#: widgets/contact-form-7.php:1140
+msgid "Submit Button"
+msgstr ""
+
+#: widgets/contact-form-7.php:1178 widgets/contact-form-7.php:1192
+msgid "Width"
+msgstr ""
+
+#: widgets/contact-form-7.php:1182
+msgid "Full Width"
+msgstr ""
+
+#: widgets/contact-form-7.php:1281
+msgid "Margin Top"
+msgstr ""
+
+#: widgets/contact-form-7.php:1444
+msgid "Fields"
+msgstr ""
+
+#: widgets/contact-form-7.php:1594
+msgid "After Submit Feedback"
+msgstr ""
+
+#: widgets/contact-form-7.php:1648
+msgid "Radius"
+msgstr ""
+
+#: widgets/image-carousel.php:47
+msgid "Image Carousel"
+msgstr ""
+
+#: widgets/image-carousel.php:144
+msgid "Add Images"
+msgstr ""
+
+#: widgets/image-carousel.php:157
+msgid "Slides to Show"
+msgstr ""
+
+#: widgets/image-carousel.php:158
+msgid "The number of items you want to see on the screen."
+msgstr ""
+
+#: widgets/image-carousel.php:182
+msgid "margin-right (px) on item."
+msgstr ""
+
+#: widgets/image-carousel.php:201
+msgid "Loop"
+msgstr ""
+
+#: widgets/image-carousel.php:202
+msgid "Infinity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: widgets/image-carousel.php:217
+msgid "Center item. Works well with even an odd number of items."
+msgstr ""
+
+#: widgets/image-carousel.php:231
+msgid "Mouse Drag"
+msgstr ""
+
+#: widgets/image-carousel.php:232
+msgid "Mouse drag enabled."
+msgstr ""
+
+#: widgets/image-carousel.php:246
+msgid "Touch Drag"
+msgstr ""
+
+#: widgets/image-carousel.php:247
+msgid "Touch drag enabled."
+msgstr ""
+
+#: widgets/image-carousel.php:261
+msgid "Pull Drag"
+msgstr ""
+
+#: widgets/image-carousel.php:262
+msgid "Stage pull to edge."
+msgstr ""
+
+#: widgets/image-carousel.php:276
+msgid "Free Drag"
+msgstr ""
+
+#: widgets/image-carousel.php:277
+msgid "Item pull to edge."
+msgstr ""
+
+#: widgets/image-carousel.php:291
+msgid "Auto Width"
+msgstr ""
+
+#: widgets/image-carousel.php:292
+msgid "Set non grid content. Try using width style on divs."
+msgstr ""
+
+#: widgets/image-carousel.php:306
+msgid "Rewind"
+msgstr ""
+
+#: widgets/image-carousel.php:307
+msgid "Go backwards when the boundary has reached."
+msgstr ""
+
+#: widgets/image-carousel.php:321
+msgid "Navigation"
+msgstr ""
+
+#: widgets/image-carousel.php:322
+msgid "Show next/prev buttons."
+msgstr ""
+
+#: widgets/image-carousel.php:337
+msgid "Dots"
+msgstr ""
+
+#: widgets/image-carousel.php:338
+msgid "Show dots navigation."
+msgstr ""
+
+#: widgets/image-carousel.php:352
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/image-carousel.php:353
+msgid "Autoplay carousel on load."
+msgstr ""
+
+#: widgets/image-carousel.php:367
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: widgets/image-carousel.php:368
+msgid "Autoplay interval timeout."
+msgstr ""
+
+#: widgets/image-carousel.php:388
+msgid "Autoplay Hover Pause"
+msgstr ""
+
+#: widgets/image-carousel.php:390
+msgid "Pause on mouse hover."
+msgstr ""
+
+#: widgets/image-carousel.php:406
+msgid "Lazy Load"
+msgstr ""
+
+#: widgets/image-carousel.php:407
+msgid ""
+"Lazy load images. data-src and data-src-retina for highres. Also load images "
+"into background inline style if element is not <img>"
+msgstr ""
+
+#: widgets/modal.php:49
+msgid "Modal"
+msgstr ""
+
+#: widgets/modal.php:106
+msgid "Small"
+msgstr ""
+
+#: widgets/modal.php:155
+msgid "Callback"
+msgstr ""
+
+#: widgets/modal.php:163
+msgid "Callback Type"
+msgstr ""
+
+#: widgets/modal.php:166 widgets/price-box.php:193 widgets/team.php:253
+msgid "Link"
+msgstr ""
+
+#: widgets/modal.php:167
+msgid "Button"
+msgstr ""
+
+#: widgets/modal.php:176
+msgid "Callback Text"
+msgstr ""
+
+#: widgets/modal.php:178
+msgid "Click Here"
+msgstr ""
+
+#: widgets/modal.php:179
+msgid "Open Modal"
+msgstr ""
+
+#: widgets/modal.php:228
+msgid "Modal ID"
+msgstr ""
+
+#: widgets/modal.php:231
+msgid "unique_callback_name"
+msgstr ""
+
+#: widgets/modal.php:239
+msgid "Modal Title"
+msgstr ""
+
+#: widgets/modal.php:242
+msgid "GoldAddons Modal"
+msgstr ""
+
+#: widgets/modal.php:249
+msgid "Modal Size"
+msgstr ""
+
+#: widgets/modal.php:260
+msgid "Modal Content"
+msgstr ""
+
+#: widgets/modal.php:262
+msgid "Add custom content..."
+msgstr ""
+
+#: widgets/modal.php:270
+msgid "Content Alignment"
+msgstr ""
+
+#: widgets/modal.php:305
+msgid "Link Styling"
+msgstr ""
+
+#: widgets/modal.php:377
+msgid "Button Styling"
+msgstr ""
+
+#: widgets/modal.php:558 widgets/modal.php:567
+msgid "Close"
+msgstr ""
+
+#: widgets/price-box.php:49
+msgid "Price Box"
+msgstr ""
+
+#: widgets/price-box.php:131
+msgid "Currency Symbol"
+msgstr ""
+
+#: widgets/price-box.php:140
+msgid "Price"
+msgstr ""
+
+#: widgets/price-box.php:150
+msgid "Period"
+msgstr ""
+
+#: widgets/price-box.php:172 widgets/team.php:243
+msgid "Icon"
+msgstr ""
+
+#: widgets/price-box.php:182 widgets/team.php:232
+msgid "Text"
+msgstr ""
+
+#: widgets/price-box.php:185 widgets/price-box.php:186
+msgid "New Feature"
+msgstr ""
+
+#: widgets/price-box.php:196 widgets/price-box.php:240 widgets/team.php:256
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/price-box.php:203
+msgid "Features"
+msgstr ""
+
+#: widgets/price-box.php:208
+msgid "Feature #1"
+msgstr ""
+
+#: widgets/price-box.php:212
+msgid "Feature #2"
+msgstr ""
+
+#: widgets/price-box.php:216
+msgid "Feature #3"
+msgstr ""
+
+#: widgets/price-box.php:228
+msgid "Button Title"
+msgstr ""
+
+#: widgets/price-box.php:238
+msgid "Button Link"
+msgstr ""
+
+#: widgets/price-box.php:254
+msgid "Featured ?"
+msgstr ""
+
+#: widgets/price-box.php:255
+msgid ""
+"If enabled the proper box shadow wil lbe applied to stick box out from other "
+"price boxes. Usually featured box should be in middle."
+msgstr ""
+
+#: widgets/price-box.php:270 widgets/team.php:290
+msgid "Styling"
+msgstr ""
+
+#: widgets/price-box.php:279
+msgid "Head Typography"
+msgstr ""
+
+#: widgets/price-box.php:287
+msgid "Head Price Color"
+msgstr ""
+
+#: widgets/price-box.php:298
+msgid "Head Title Color"
+msgstr ""
+
+#: widgets/price-box.php:320 widgets/price-box.php:341
+msgid "Head Background Color"
+msgstr ""
+
+#: widgets/price-box.php:358
+msgid "List Typography"
+msgstr ""
+
+#: widgets/price-box.php:366
+msgid "Feature List Text Color"
+msgstr ""
+
+#: widgets/price-box.php:388 widgets/price-box.php:409
+msgid "Feature List Links Color"
+msgstr ""
+
+#: widgets/team.php:50
+msgid "Team"
+msgstr ""
+
+#: widgets/team.php:148
+msgid "Add Image"
+msgstr ""
+
+#: widgets/team.php:159 widgets/team.php:177
+msgid "Image Dimension"
+msgstr ""
+
+#: widgets/team.php:195
+msgid "Style"
+msgstr ""
+
+#: widgets/team.php:198
+msgid "Simple Vertical"
+msgstr ""
+
+#: widgets/team.php:199
+msgid "Simple Horizontal"
+msgstr ""
+
+#: widgets/team.php:200
+msgid "Card"
+msgstr ""
+
+#: widgets/team.php:210
+msgid "Person Name"
+msgstr ""
+
+#: widgets/team.php:220
+msgid "Position"
+msgstr ""
+
+#: widgets/team.php:235 widgets/team.php:236
+msgid "Social Icon"
+msgstr ""
+
+#: widgets/team.php:263
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/team.php:268
+msgid "Facebook"
+msgstr ""
+
+#: widgets/team.php:272
+msgid "Twitter"
+msgstr ""
+
+#: widgets/team.php:276
+msgid "Google+"
+msgstr ""
+
+#: widgets/team.php:298
+msgid "Name Color"
+msgstr ""
+
+#: widgets/team.php:310
+msgid "Name Typography"
+msgstr ""
+
+#: widgets/team.php:318
+msgid "Position Color"
+msgstr ""
+
+#: widgets/team.php:331
+msgid "Position Typography"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Gold Addons for Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://goldaddons.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Gold Addons plugin extends elementor widgets with many new & fresh widgets."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://goldaddons.com/pricing/"
+msgstr ""

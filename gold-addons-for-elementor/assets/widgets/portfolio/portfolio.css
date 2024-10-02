@@ -1,0 +1,333 @@
+/**
+ * Navigation
+ * -------------------------------- */
+ .ga-portfolio-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.ga-portfolio-nav > li {
+    list-style: none;
+    line-height: 36px;
+    margin: 0;
+}
+
+.ga-portfolio-nav > li > a,
+.entry .entry-content .ga-portfolio-nav > li > a { /* Twenty Nineteen Theme */
+    font-size: .8em;
+    border-bottom: none;
+    color: #777;
+    cursor: pointer;
+    padding: 6px 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.ga-portfolio-nav > li > a:hover {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.ga-portfolio-nav > li.active > a {
+    background: transparent;
+    border-bottom: 3px solid #CCC;
+    border-radius: 0;
+}
+
+.ga-portfolio-nav > li.active > a {
+    border-bottom-color: #0088cc;
+    color: #0088cc;
+}
+
+/* PORTFOLIO
+ * --------------------- */
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel {
+    z-index: auto;
+}
+
+.goldaddons-portfolio .ga-portfolio-item {
+    position: relative;
+}
+
+.goldaddons-portfolio .ga-portfolio-item-trigger {
+    cursor: pointer;
+}
+
+.goldaddons-portfolio .ga-thumb-info .ga-thumb-info-wrapper {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    margin: 0;
+    overflow: hidden;
+    display: block;
+    position: relative;
+}
+
+.goldaddons-portfolio .ga-thumb-info .ga-thumb-info-wrapper:after {
+    content: "";
+    background: rgba(33, 37, 41, 0.8);
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    bottom: -4px;
+    color: #FFF;
+    left: -4px;
+    position: absolute;
+    right: -4px;
+    top: -4px;
+    display: block;
+    opacity: 0;
+    z-index: 1;
+}
+
+.goldaddons-portfolio .ga-thumb-info:hover .ga-thumb-info-wrapper:after {
+    opacity: 1;
+}
+
+.goldaddons-portfolio .ga-thumb-info img {
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.goldaddons-portfolio .ga-thumb-info:hover img {
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
+}
+
+.goldaddons-portfolio .ga-thumb-info .ga-thumb-info-title {
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    background: rgba(33, 37, 41, 0.8);
+    color: #FFF;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: -.05em;
+    position: absolute;
+    z-index: 2;
+    max-width: 90%;
+    font-size: 17px;
+    padding: 13px 21px 2px;
+    bottom: 13%;
+}
+
+.goldaddons-portfolio .ga-thumb-info .ga-thumb-info-inner {
+    -webkit-transition: all 0.3s;
+    text-align: center;
+    transition: all 0.3s;
+    display: block;
+}
+
+.goldaddons-portfolio .ga-thumb-info .ga-thumb-info-type {
+    background-color: #0088cc;
+    border-radius: 2px;
+    display: inline-block;
+    float: left;
+    font-size: 0.6em;
+    font-weight: 600;
+    letter-spacing: 0;
+    margin: 8px -2px -15px 0px;
+    padding: 2px 12px;
+    text-transform: uppercase;
+    z-index: 2;
+    line-height: 2.3;
+}
+
+.goldaddons-portfolio .ga-thumb-info .ga-thumb-info-action-icon {
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    background: #212529;
+    border-radius: 0 0 0 4px;
+    display: inline-block;
+    font-size: 25px;
+    height: 50px;
+    line-height: 50px;
+    position: absolute;
+    right: -100px;
+    text-align: center;
+    top: -100px;
+    opacity: 0.8;
+    width: 50px;
+    z-index: 2;
+}
+
+.goldaddons-portfolio .ga-thumb-info:hover .ga-thumb-info-action-icon {
+    right: 0;
+    top: 0;
+}
+
+.goldaddons-portfolio .ga-thumb-info .ga-thumb-info-action-icon i {
+    font-size: 22px;
+    right: 50%;
+    position: absolute;
+    top: 50%;
+    color: #FFF;
+    -webkit-transform: translate(50%, -50%);
+    transform: translate(50%, -50%);
+    margin: -2px -1px 0 0px;
+}
+
+.goldaddons-portfolio .owl-dots,
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel.dots-inside .owl-dots {
+    position: absolute;
+    bottom: 2px;
+    right: 10px;
+    margin-top: 0;
+    padding-bottom: 0;
+    width: auto;
+    z-index: 2;
+}
+
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel .owl-dots button,
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel .owl-dots .owl-dot {
+    width: 8px;
+    height: 8px;
+    margin: 5px 4px;
+}
+
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel .owl-dots .owl-dot,
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel.dots-inside .owl-dots .owl-dot {
+    background: #0074ad;
+    background-color: #0074ad;
+    border-color: #0074ad;
+    opacity: .5;
+}
+
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel .owl-dots button.active,
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel .owl-dots button:hover,
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel .owl-dots .owl-dot.active, 
+.goldaddons-portfolio .goldaddons-carousel.owl-carousel .owl-dots .owl-dot:hover {
+    background: #0074ad;
+    background-color: #0074ad;
+    border-color: #0074ad;
+}
+
+/* PORTFOLIO SINGLE
+ * --------------------- */
+ .goldaddons-portfolio-single.ga-init {
+    height: 0;
+}
+
+.goldaddons-portfolio-single.ga-loading {
+    height: 300px;
+}
+
+.goldaddons-portfolio-single.ga-loading .ga-portfolio-content {
+    opacity: 0;
+}
+
+.goldaddons-portfolio-single {
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.goldaddons-portfolio-single .ga-bounce-loader {
+    opacity: 0;
+}
+
+.goldaddons-portfolio-single.ga-loading .ga-bounce-loader {
+    opacity: 1;
+}
+
+.goldaddons-portfolio-single .ga-portfolio-content {
+    padding-bottom: 35px;
+    margin-bottom: 35px;
+}
+
+.goldaddons-portfolio-single .ga-portfolio-content-top {
+    display: block;
+    width: 100%;
+}
+
+.goldaddons-portfolio-single .ga-portfolio-content-top h2 {
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+    padding: 1.5rem 0;
+    line-height: 42px;
+    color: #212529;
+}
+
+.goldaddons-portfolio-single .ga-left,
+.goldaddons-portfolio-single .ga-right {
+    display: inline-block;
+    vertical-align: top;
+    width: 48%;
+}
+
+.goldaddons-portfolio-single .ga-left {
+    padding-right: 15px;
+}
+
+.goldaddons-portfolio-single .ga-right h3 {
+    font-size: 1.2em;
+    font-weight: 400;
+    line-height: 42px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #212529;
+}
+
+.goldaddons-portfolio-single .ga-right p {
+    margin-bottom: 20px;
+}
+
+.goldaddons-portfolio-single .ga-right ul {
+    font-size: .9em;
+    list-style: none;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.goldaddons-portfolio-single .ga-right ul li {
+    border-bottom: 1px solid #eaeaea;
+    margin-top: 9px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-bottom: 9px;
+    position: relative;
+    padding-left: 10px;
+}
+
+.goldaddons-portfolio-single .ga-right ul li > i {
+    color: #0088cc;
+}
+
+.goldaddons-portfolio-single .ga-right ul li > strong {
+    color: #0088cc;   
+}
+
+.goldaddons-portfolio-single .ga-right ul li a {
+    border: 0;
+    text-decoration: none;
+}
+
+.goldaddons-portfolio-single .ga-right ul li span {
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    vertical-align: baseline;
+    display: inline-block;
+    background-color: #212529;
+    border-radius: 10rem;
+    padding: .25rem .5rem;
+    margin-left: .25rem;
+    color: #fff;
+}

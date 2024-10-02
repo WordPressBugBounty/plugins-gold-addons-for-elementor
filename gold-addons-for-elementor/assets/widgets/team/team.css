@@ -1,0 +1,66 @@
+.gold-addons-team {
+    text-align: center;
+}
+
+.gold-addons-team h5,
+.gold-addons-team h6 {
+    margin-top: 0;
+    margin-bottom: 6px !important;
+}
+
+.gold-addons-team p {
+    color: #9da9b9;
+    margin-bottom: .5rem !important;
+}
+
+/* Team Vertical Style */
+.gold-addons-team.ga-team-simple-v img {
+    margin: 0 auto;
+}
+
+.gold-addons-team.ga-team-simple-v img,
+.gold-addons-team.ga-team-simple-h img {
+    background-color: #fff;
+    border: 1px solid #e1e7ec;
+    border-radius: 50%;
+    margin-bottom: .5rem;
+    display: block;
+    padding: 5px;
+}
+
+/* Team Horizontal Style */
+.gold-addons-team.ga-team-simple-h img,
+.gold-addons-team.ga-team-simple-h .ga-team-info {
+    display: table-cell;
+}
+
+.gold-addons-team.ga-team-simple-h .ga-team-info {
+    text-align: left;
+    padding-left: 1rem;
+    vertical-align: middle;
+}
+
+/* Team Card Style */
+.gold-addons-team.ga-team-card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,0.125);
+    border-radius: .25rem;
+}
+.gold-addons-team.ga-team-card img {
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+.gold-addons-team.ga-team-card .ga-team-info {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}

@@ -1,0 +1,24 @@
+button.ga-close {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+  
+  a.ga-close.disabled {
+    pointer-events: none;
+  }
+  
+  .ga-button {
+      font-weight: 500;
+      background-color: #333;
+      cursor: pointer;
+      padding: 10px 20px;
+      color: #fff;
+      -webkit-transition: 100ms linear;
+      -ms-transition: 100ms linear;
+      transition: 100ms linear;
+  }
+  
